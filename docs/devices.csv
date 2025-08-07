@@ -1,0 +1,16 @@
+Category,Manufacturer,Model,OS Compatibility,Software Compatibility,Date Last Test,Software Last Test,Product Link,Special Configuration,Limitations or Known Issues,Additional Notes,Date Added,Date Updated
+ONVIF Camera,Imou,IPC-F42,All,Hubkit 4.0.0~,2025-06-04,HubkitWin 6.0.2;HubkitMac 6.0.2,https://static-website.imou.com/43e1e972-2556-4b69-96f3-fe7da8a38755.pdf,Require Imou Life App to set it up,None,,2022-10-21,2025-08-07
+ONVIF Camera,Panasonic,BB-SP104W,All,Hubkit 4.0.0~,2021-04-07,HubKitMac 4.x.x;GHub gen1,https://connect.panasonic.com/jp-ja/products-services/security_iprobrand-remo/lineup/sp104w,None,None,The test details are lost but it did run on HubKit,2020-03-12,2025-08-07
+ONVIF Camera,Panasonic,BB-ST165,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
+ONVIF Camera,AXIS,M5065,All,Hubkit 4.0.0~,2021-04-07,GHub gen1,https://www.axis.com/products/axis-m5065,PoE only,None,Jacky: will test again,2022-08-18,2025-08-07
+ONVIF Camera,AXIS,M3044-V,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
+ONVIF Camera,Sony,CX600W,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
+USB Camera,Logitech,C270 HD,MacOS;Linux,Hubkit 4.2.0~,2025-08-07,HubkitMac 6.1.0,https://www.logitech.com/en-us/shop/p/c270-hd-webcam,None,None,,2025-08-07,2025-08-07
+USB Camera,Logitech,StreamCam,MacOS;Linux,Hubkit 4.2.0~,2025-08-06,HubkitMac 6.1.0,https://www.logitech.com/en-us/shop/p/streamcam,None,None,,2025-08-07,2025-08-07
+USB Camera,EMEET,SmartCam C960 ,MacOS;Linux,Hubkit 4.2.0~,2025-08-07,HubkitMac 6.1.0,https://emeet.co.jp/products/webcam-c960,None,Video file captured is completely black,,2025-08-07,2025-08-07
+USB Camera,Arducam,USB Camera,MacOS;Linux,Hubkit 4.2.0~,2025-08-01,HubkitMac 6.1.0,https://www.arducam.com/ub020201-arducam-1080p-low-light-wdr-usb-camera-module-with-metal-case-2mp-1-2-8-cmos-imx291-160-degree-ultra-wide-angle-mini-uvc-webcam-board-with-microphones.html,None,None,,2025-08-07,2025-08-07
+Barcode Scanner,Zebra,DS2208,All,Hubkit 6.0.0~,2025-03-07,HubkitMac 6.0.0,,None,None,,2025-03-07,2025-07-17
+Barcode Scanner,Newland,FM430,All,Hubkit 4.3.0~,N/A,N/A,https://www.newlandaidc.com/jp/products/FixedMount/FM430.html,None,None,,2021-04-26,2025-07-17
+Barcode Scanner,BUSICOM,BC-NL1100U,All,Hubkit 3.x~,N/A,N/A,https://www.busicom.co.jp/h/pdf/BC-NL1100U.pdf,None,None,,2019-19-25,2025-07-17
+Barcode Scanner,BUSICOM,BC-NL2200U,All,Hubkit 3.x~,N/A,N/A,https://www.busicom.co.jp/h/pdf/BC-NL2200U.pdf,None,None,,2019-19-25,2025-07-17
+Barcode Scanner,BUSICOM,BC-NL3000U,All,Hubkit 3.x~,N/A,N/A,https://www.busicom.co.jp/h/pdf/BC-NL3000U.pdf,None,None,,2019-19-25,2025-07-17
