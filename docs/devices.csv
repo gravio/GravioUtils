@@ -1,9 +1,13 @@
 Category,Manufacturer,Model,OS Compatibility,Software Compatibility,Date Last Test,Software Last Test,Product Link,Special Configuration,Limitations or Known Issues,Additional Notes,Date Added,Date Updated
-ONVIF Camera,Imou,IPC-F42,All,Hubkit 4.0.0~,2025-06-04,HubkitWin 6.0.2;HubkitMac 6.0.2,https://static-website.imou.com/43e1e972-2556-4b69-96f3-fe7da8a38755.pdf,Require Imou Life App to set it up,None,,2022-10-21,2025-08-07
-ONVIF Camera,Panasonic,BB-SP104W,All,Hubkit 4.0.0~,2021-04-07,HubKitMac 4.x.x;GHub gen1,https://connect.panasonic.com/jp-ja/products-services/security_iprobrand-remo/lineup/sp104w,None,None,The test details are lost but it did run on HubKit,2020-03-12,2025-08-07
-ONVIF Camera,Panasonic,BB-ST165,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
 ONVIF Camera,AXIS,M5065,All,Hubkit 4.0.0~,2021-04-07,GHub gen1,https://www.axis.com/products/axis-m5065,PoE only,None,Jacky: will test again,2022-08-18,2025-08-07
 ONVIF Camera,AXIS,M3044-V,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
+ONVIF Camera,Imou,IPC-F42,All,Hubkit 4.0.0~,2025-06-04,HubkitWin 6.0.2;HubkitMac 6.0.2,https://static-website.imou.com/43e1e972-2556-4b69-96f3-fe7da8a38755.pdf,Require Imou Life App to set it up,None,,2022-10-21,2025-08-07
+ONVIF Camera,i-PRO,WV-S1135V,All,Hubkit 4.0.0~,2025-08-08,HubkitMac 6.1.0,https://i-pro.com/products_and_solutions/ja/surveillance/products/wv-s1135vux,None,None,Ebisu Front Door & Ebisu Meeting Room,2025-08-08,2025-08-08
+ONVIF Camera,IODATA,TS-NA220W,All,Hubkit 4.0.0~,2025-08-08,HubkitMac 6.1.0,https://www.iodata.jp/product/lancam/lancam/ts-na220w/index.htm,None,None,Ebisu Wine Cabinet & Ebisu Main Area,2025-08-08,2025-08-08
+ONVIF Camera,Logitech,Brio 4K,All,Hubkit 4.0.0~,2025-08-08,HubkitWin 6.1.0,https://www.logicool.co.jp/ja-jp/products/webcams/brio-4k-hdr-webcam.960-001726.html,None,None,,2025-08-08,2025-08-08
+ONVIF Camera,Panasonic,BB-SP104W,All,Hubkit 4.0.0~,2021-04-07,HubKitMac 4.x.x;GHub gen1,https://connect.panasonic.com/jp-ja/products-services/security_iprobrand-remo/lineup/sp104w,None,None,The test details are lost but it did run on HubKit,2020-03-12,2025-08-07
+ONVIF Camera,Panasonic,BB-ST165,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
+ONVIF Camera,Panasonic,WV-S3130,All,Hubkit 4.0.0~,2025-08-08,HubkitMac 6.1.0,https://i-pro.com/products_and_solutions/ja/surveillance/products/wv-s1135vux,None,None,Ebisu Bar,2025-08-08,2025-08-08
 ONVIF Camera,Sony,CX600W,All,Hubkit 4.0.0~,N/A,N/A,,None,None,From BT846744,2022-08-18,2025-08-07
 USB Camera,Logitech,C270 HD,MacOS;Linux,Hubkit 4.2.0~,2025-08-07,HubkitMac 6.1.0,https://www.logitech.com/en-us/shop/p/c270-hd-webcam,None,None,,2025-08-07,2025-08-07
 USB Camera,Logitech,StreamCam,MacOS;Linux,Hubkit 4.2.0~,2025-08-06,HubkitMac 6.1.0,https://www.logitech.com/en-us/shop/p/streamcam,None,None,,2025-08-07,2025-08-07
